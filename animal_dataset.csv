@@ -1,0 +1,91 @@
+animal_id,animal_name,animal_category,url
+1,cow,Farm Animals,https://t3.ftcdn.net/jpg/02/36/28/16/360_F_236281663_TzJcMacNnvFZA1QKulpDJoL62qlw6iGP.jpg
+2,buffalo,Farm Animals,https://img.freepik.com/premium-vector/buffalo-vector-cartoon-illustration_1215145-7113.jpg
+3,goat,Farm Animals,https://t4.ftcdn.net/jpg/01/25/32/45/360_F_125324577_8g0CqyMtixFeTyunpDBO4Yt2idzEbhDa.jpg
+4,pig,Farm Animals,https://www.shutterstock.com/image-vector/pig-flat-cartoon-Farm Animals-logo-260nw-2324862757.jpg
+5,sheep,Farm Animals,https://t3.ftcdn.net/jpg/00/97/00/56/360_F_97005676_hEpYC3D0V4Jyuufxm15LWeaj3BYLGQEo.jpg
+6,horse,Farm Animals,https://i.pinimg.com/736x/a9/f9/b5/a9f9b5b02285384d0babd548d86abf0b.jpg
+7,hen,Farm Animals,https://cbx-prod.b-cdn.net/COLOURBOX63926966.jpg?width=800&height=800&quality=70
+8,donkey,Farm Animals,https://media.istockphoto.com/id/1691801174/vector/cute-donkey-cartoon-on-white-background.jpg?s=612x612&w=0&k=20&c=hSiCEvgvMURZd6vSWcCBYhx85fUfMkcrrinFQlKw9UI=
+9,dog,Farm Animals,https://png.pngtree.com/png-vector/20240913/ourlarge/pngtree-vector-cartoon-dog-png-image_12828379.png
+10,ox,Farm Animals,https://www.shutterstock.com/image-vector/little-black-bull-cartoon-animal-600nw-2226008919.jpg
+11,chicken,Farm Animals,https://png.pngtree.com/png-clipart/20220130/original/pngtree-native-chicken-commercially-available-element-material-png-image_7241684.png
+12,goose,Farm Animals,https://png.pngtree.com/png-clipart/20190705/original/pngtree-goose-goose-pictures-png-image_4359551.jpg
+13,rabbit,Farm Animals,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5-qhU5e109v21KhESwyjci5qLbcGzw7kKQ&s
+14,yak,Farm Animals,https://png.pngtree.com/png-clipart/20210227/ourmid/pngtree-brown-thick-ox-clip-art-png-image_2963531.jpg
+15,ostrich,Farm Animals,https://png.pngtree.com/png-vector/20240902/ourmid/pngtree-ostrich-clipart-illustration-free-for-commercial-use-png-image_13725615.png
+16,rooster,Farm Animals,https://png.pngtree.com/png-vector/20240125/ourmid/pngtree-rooster-png-file-png-image_11492091.png
+17,camel,Farm Animals,https://png.pngtree.com/png-clipart/20201219/ourmid/pngtree-camel-with-red-camel-saddle-clipart-png-image_2584943.jpg
+18,emu,Farm Animals,https://png.pngtree.com/png-vector/20240720/ourmid/pngtree-emu-bird-royalty-png-image_13158306.png
+19,cat,Farm Animals,https://png.pngtree.com/png-clipart/20230511/ourmid/pngtree-isolated-cat-on-white-background-png-image_7094927.png
+20,mule,Farm Animals,https://png.pngtree.com/png-vector/20240128/ourmid/pngtree-graphics-of-donkey-mule-isolated-on-white-background-png-image_11506149.png
+21,fish,Sea Creatures,https://www.shutterstock.com/image-vector/isolated-cute-nemo-fish-cartoon-600nw-2431225233.jpg
+22,dolphin,Sea Creatures,https://c8.alamy.com/comp/2FWRBX3/funny-cute-happy-dolphin-Sea Creatures-creatures-cartoon-marine-animal-character-vector-illustration-isolated-on-white-background-for-children-apparel-prin-2FWRBX3.jpg
+23,shark,Sea Creatures,https://img.freepik.com/free-vector/aggressive-great-white-shark-cartoon_1308-97904.jpg
+24,whale,Sea Creatures,https://static.vecteezy.com/system/resources/thumbnails/007/916/692/small_2x/illustration-of-cute-whale-cartoon-vector.jpg
+25,octopus,Sea Creatures,https://t3.ftcdn.net/jpg/09/25/92/54/360_F_925925441_pBBysPCeScDWPsq4xRbI9eeGIDwDv8HH.jpg
+26,starfish,Sea Creatures,https://img.freepik.com/premium-vector/starfish-vector-clipart-art-illustration-solid-white-background-27_666870-8647.jpg?semt=ais_hybrid
+27,sea lion,Sea Creatures,https://www.shutterstock.com/image-vector/Sea Creatures-lion-happy-face-illustration-260nw-412768711.jpg
+28,crab,Sea Creatures,https://img.freepik.com/premium-vector/little-crab-cartoon-white-background_844724-67.jpg
+29,turtle,Sea Creatures,https://t3.ftcdn.net/jpg/08/54/05/60/360_F_854056040_qrIlNGtJDEvxpN3rIDytauT1SzUaoRCL.jpg
+30,crocodile,Sea Creatures,https://i.pinimg.com/736x/d4/de/bc/d4debcd22707ba09393f601d50dd8aaa.jpg
+31,jellyfish,Sea Creatures,https://png.pngtree.com/png-vector/20240124/ourmid/pngtree-jellyfish-in-the-blue-sea-png-image_11487849.png
+32,lobster,Sea Creatures,https://png.pngtree.com/png-vector/20231113/ourmid/pngtree-living-lobster-swipe-png-image_10453525.png
+33,seahorse,Sea Creatures,https://png.pngtree.com/png-vector/20240124/ourmid/pngtree-red-color-seahorse-png-illustration-marine-animals-png-image_11487277.png
+34,squid,Sea Creatures,https://png.pngtree.com/png-vector/20221013/ourmid/pngtree-cartoon-squid-vector-calamari-mollusk-png-image_6281038.png
+35,swordfish,Sea Creatures,https://static.vecteezy.com/system/resources/previews/014/033/657/non_2x/sword-fish-transparent-free-png.png
+36,sea urchin,Sea Creatures,https://static.vecteezy.com/system/resources/previews/046/933/751/non_2x/sea-urchin-on-transparent-background-free-png.png
+37,tuna,Sea Creatures,https://png.pngtree.com/png-vector/20231017/ourmid/pngtree-bluefin-tuna-fish-png-image_10202750.png
+38,shrimp,Sea Creatures,https://png.pngtree.com/png-vector/20240725/ourmid/pngtree-cooked-shrimp-png-image_13232560.png
+39,cone snail,Sea Creatures,https://w7.pngwing.com/pngs/608/981/png-transparent-sea-snail-gastropods-snail-animals-terrestrial-animal-snails-and-slugs-thumbnail.png
+40,clownfish,Sea Creatures,https://png.pngtree.com/png-clipart/20210127/ourmid/pngtree-golden-clownfish-clip-art-png-image_2819827.png
+41,sparrow,Bird,https://thumbs.dreamstime.com/b/playful-cartoon-sparrow-doodle-perfect-tshirts-app-icons-charming-d-illustration-sketch-style-colorful-vector-design-337779389.jpg
+42,parrot,Bird,https://st2.depositphotos.com/1967477/7370/v/950/depositphotos_73709339-stock-illustration-cartoon-cute-parrot.jpg
+43,peacock,Bird,https://png.pngtree.com/png-clipart/20240218/original/pngtree-3d-peacock-design-png-image_14353905.png
+44,crow,Bird,https://static.vecteezy.com/system/resources/previews/021/458/237/non_2x/cute-crow-cartoon-on-white-background-vector.jpg
+45,duck,Bird,https://img.freepik.com/free-vector/cute-duck-white_1308-41058.jpg?semt=ais_hybrid
+46,eagle,Bird,https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-eagle-bird-transparent-on-white-background-png-image_6656458.png
+47,pengiun,Bird,https://png.pngtree.com/png-clipart/20230508/ourmid/pngtree-arctic-penguins-ai-png-image_7090776.png
+48,owl,Bird,https://png.pngtree.com/png-vector/20220825/ourmid/pngtree-cute-owl-cartoon-png-image_6124386.png
+49,flamingo,Bird,https://png.pngtree.com/png-clipart/20190604/original/pngtree-flamingos-png-image_1366711.jpg
+50,humminbird,Bird,https://png.pngtree.com/png-vector/20240129/ourmid/pngtree-hummingbird-png-with-ai-generated-png-image_11563630.png
+51,woodpecker,Bird,https://png.pngtree.com/png-vector/20240715/ourlarge/pngtree-woodpecker-bird-png-image_13098083.png
+52,pigeon,Bird,https://png.pngtree.com/png-clipart/20211018/ourmid/pngtree-racing-pigeon-png-image_3988850.png
+53,kingfisher,Bird,https://png.pngtree.com/png-clipart/20230414/original/pngtree-a-kingfisher-bird-sitting-on-tree-png-image_9055070.png
+54,vulture,Bird,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZlmPokfuu6OEB8mG-jTNSuEyJ395vIhv3A&s
+55,heron,Bird,https://png.pngtree.com/png-vector/20201127/ourmid/pngtree-egrets-protect-animals-png-image_2406400.jpg
+56,woodcock,Bird,https://png.pngtree.com/png-vector/20240824/ourmid/pngtree-woodcock-bird-png-image_13610012.png
+57,swan,Bird,https://png.pngtree.com/png-vector/20240205/ourmid/pngtree-swan-little-bird-png-image_11623895.png
+58,macaw,Bird,https://png.pngtree.com/png-clipart/20230429/ourmid/pngtree-isolated-scarlet-macaw-parrot-flying-on-transparent-png-image_6745591.png
+59,crane,Bird,https://png.pngtree.com/png-clipart/20210912/original/pngtree-flying-bird-birds-white-crane-png-image_6742186.jpg
+60,seagull,Bird,https://png.pngtree.com/png-clipart/20220125/original/pngtree-flying-seagull-png-image_7223637.png
+61,lion,Wild Animal,https://img.freepik.com/free-psd/3d-rendering-lion-isolated_23-2151673509.jpg?semt=ais_hybrid
+62,tiger,Wild Animal,https://www.aiscribbles.com/img/variant/large-preview/72517/?v=66aa08
+63,elephant,Wild Animal,https://www.shutterstock.com/shutterstock/photos/2162378867/display_1500/stock-vector-cartoon-cute-baby-elephant-sitting-2162378867.jpg
+64,giraffe,Wild Animal,https://t4.ftcdn.net/jpg/02/82/56/21/360_F_282562173_IBawrjFoWRFCv6jpUmvUUpNK7XfZ75BG.jpg
+65,zebra,Wild Animal,https://www.shutterstock.com/image-vector/cartoon-zebra-lively-character-known-260nw-2467359401.jpg
+66,wolf,Wild Animal,https://png.pngtree.com/png-vector/20230906/ourmid/pngtree-wolf-howling-side-view-png-image_9994722.png
+67,leopard,Wild Animal,https://png.pngtree.com/png-vector/20220725/ourmid/pngtree-cartoon-leopard-lying-on-a-tree-branch-png-image_6054115.png
+68,cheetah,Wild Animal,https://png.pngtree.com/png-vector/20230930/ourmid/pngtree-cheetah-png-with-ai-generated-png-image_10153570.png
+69,bear,Wild Animal,https://png.pngtree.com/png-vector/20230318/ourmid/pngtree-brown-bear-animal-transparent-on-white-png-image_6655701.png
+70,kangaroo,Wild Animal,https://png.pngtree.com/element_our/20240626/1fa6aa8f4b6b9af36e63cf084efdfa06.png
+71,rhino,Wild Animal,https://png.pngtree.com/png-vector/20240129/ourmid/pngtree-rhino-png-with-ai-generated-png-image_11564515.png
+72,fox,Wild Animal,https://static.vecteezy.com/system/resources/previews/049/159/615/non_2x/happy-face-fox-3d-cartoon-picture-png.png
+73,deer,Wild Animal,https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-baby-deer-isolated-png-image_9957461.png
+74,raccoon,Wild Animal,https://static.vecteezy.com/system/resources/previews/041/713/515/non_2x/ai-generated-inquisitive-raccoon-with-a-curious-gaze-on-transparent-background-stock-png.png
+75,Gorilla,Wild Animal,https://png.pngtree.com/png-vector/20240205/ourmid/pngtree-powerful-gorilla-png-image-png-image_11620407.png
+76,jackal,Wild Animal,https://png.pngtree.com/png-clipart/20231005/original/pngtree-indian-jackal-transparent-background-png-image_13279305.png
+77,hyena,Wild Animal,https://png.pngtree.com/png-clipart/20220707/ourmid/pngtree-affrican-spotted-hyena-transparent-png-picture-png-image_5732585.png
+78,moose,Wild Animal,https://png.pngtree.com/png-clipart/20241112/original/pngtree-moose-clipart-realistic-animal-illustration-for-projects-png-image_16959420.png
+79,sloth,Wild Animal,https://png.pngtree.com/png-vector/20240129/ourmid/pngtree-cute-brown-sloth-png-image_11566692.png
+80,wildboar,Wild Animal,https://png.pngtree.com/png-vector/20240817/ourmid/pngtree-wild-boar-clipart-illustration-isolated-transparent-background-png-image_13512387.png
+81,leopard,Jungle Animal,https://img.freepik.com/premium-vector/cartoon-leopard-walking_43633-3051.jpg?semt=ais_hybrid
+82,monkey,Jungle Animal,https://png.pngtree.com/png-clipart/20231003/original/pngtree-monkey-png-with-ai-generated-png-image_13246177.png
+83,anaconda,Jungle Animal,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHinpiyAR34mrVYB5jgo9jf-mfdsj1l7cVyg&s
+84,chimpanzee,Jungle Animal,https://png.pngtree.com/png-vector/20210415/ourmid/pngtree-smart-smart-chimpanzee-png-image_3217150.jpg
+85,macaque,Jungle Animal,https://png.pngtree.com/png-clipart/20230311/original/pngtree-wildlife-monkey-macaque-png-image_8982085.png
+86,hippo,Jungle Animal,https://i.pinimg.com/474x/66/1a/0f/661a0f991c1f3c965c2495587aef9ddc.jpg
+87,jaguar,Jungle Animal,https://cdn.britannica.com/45/156545-004-29900FF0.jpg
+88,otter,Jungle Animal,https://cdn.britannica.com/96/255796-049-61998168.jpg
+89,squirrel,Jungle Animal,https://png.pngtree.com/png-vector/20240829/ourmid/pngtree-squirrel-cartoon-wild-animals-for-childrens-illustrations-ai-generated-png-image_13668552.png
+90,panda,Jungle Animal,https://png.pngtree.com/png-clipart/20231109/original/pngtree-cute-panda-cartoon-illustration-for-kids-png-image_13522727.png
