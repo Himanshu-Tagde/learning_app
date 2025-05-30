@@ -924,7 +924,7 @@ if st.session_state.log == 2:
 
         def fetch_characteristics(animal, number_char):
             """Fetch animal characteristics using Groq API."""
-            client = Groq(api_key="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")
+            client = Groq(api_key="xxxxx")
             try:
                 chat_completion = client.chat.completions.create(
                     messages=[{
